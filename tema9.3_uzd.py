@@ -87,6 +87,7 @@ while True:
     print("2 - Pridėti išlaidas")
     print("3 - Pajamu ir islaidu balansas")
     print("4 - Parodyti ataskaita")
+    print("7 - skola")
     print("5 - Išeiti")
 
     pasirinkimas = input("Pasirinkite veiksmą: ")
